@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Helicopter
+
+  Created by Nguyen Chi Dung on 4/10/14.
+  Copyright (c) 2014 Nguyen Chi Dung. All rights reserved.
+*/
+//----Common----------------
+"Back"          =   "Back";
+
+//---End Comon-------------
+
+//----Login Screen----------------
+"Login_Alert_Title"     =   "Notice";
+"Login_Alert_Msg"       =   "The Employee Number or Password you entered is incorrect";
+
+//---End Login Screen-------------
+
+//----Log Screen----------------
+"Logout_Alert_Title"                =   "Notice";
+"Logout_Alert_Msg"                  =   "Are you sure you want to Logout?";
+"Log_Text_Footer_TableView"         =   "   * Tap on the row to view";
+"Log_Text_Footer_TableView_No_Log"  =   "No Flight Log was found.";
+
+"Log_Text_Footer_TableView_Edit"    =   "   * Tap on the row to edit";
+"Log_Text_Footer_TableView_Delete"  =   "   * Swipe left the row to delete";
+"Log_No_Result"                     =   "No Flight Log was found";
+"Log_Search_Placeholder"            =   "Log Number, Customer, Model, Contract/Charter#, A/C#";
+"Log_Delete_Confirm"                =   "Are you sure you want to delete this flight log?";
+
+//---End Log Screen-------------
+
+
+//----Add Log Screen----------------
+"Back_Alert_Title"     =   "Notice";
+"Back_Alert_Msg"       =   "Unsaved data will be lost. Do you want to save the changes before continuing?";
+
+"Delete_LogSection_Alert_Title"     =   "Notice";
+"Delete_LogSection_Alert_Msg"       =   "Are you sure to delete this record?";
+"Add_Log_Flight_Log_Guide_Delete"   =   "  * Swipe left the row to delete";
+"Add_Log_Flight_Log_Guide_Edit"     =   "  * Tap on the row to edit";
+"Add_Log_Flight_Log_Guide_View"     =   "  * Tap on the row to view";
+
+"Add_Log_Header_Section_0"          =   "   Daily Flight Log";
+"Add_Log_Header_Section_1"          =   "   Aircraft";
+"Add_Log_Header_Section_2"          =   "   Flight Log ";
+"Add_Log_Header_Section_3"          =   "   Fuel Expenses or Usage";
+"Add_Log_Header_Section_4"          =   "   Pilot";
+
+"Add_Log_Header_Validate_Flight_Leg"          =   "Please add Flight Leg(s) to continue.";
+
+"Add_Log_Validate_Operational_Weight"               =   "Operational Weight cannot be equal or greater than Max Gross Weight.";
+
+//---End Add Log Screen-------------
+
+//----Add Log Section Screen----------------
+"Add_Log_Section_Notice_Range_To"   =   "RANGE TO must be greater than RANGE FROM.";
+"Add_Log_Section_Notice_Range_To_0" =   "RANGE TO must be greater than 0.";
+"Add_Log_Section_Notice_TWO_Smaller_Maxgross" =   "T/O Weight not must be greater than Max Gross Weight.";
+"Add_Log_Section_Notice_From_To"    =   "TO and FROM must be different.";
+"Add_Log_Section_Header_Section_0"  =   "   FLIGHT DATA";
+"Add_Log_Section_Header_Section_1"  =   "   FLIGHT TIME";
+//---End Add Log Section Screen-------------
